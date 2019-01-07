@@ -10,15 +10,42 @@ Ver Contenido
 
  1- Hacer click en "Temas" en el menú superior.
 
-.. image:: /images/ss2tep1.jpg
- 
+ .. image:: /images/ss2tep1.jpg
+
  2- Esta seccion muestra todos los Clientes que Maneja
 
-.. image:: /images/ss2tep2.jpg
+ .. image:: /images/ss2tep2.jpg
 
  3- Dentro de cada Cliente se puede ver el contenido que hay dentro de cada collección
 
-.. image:: /images/temas.jpg
+ .. image:: /images/temas.jpg
+ 
+
+
+Agregar Categorias 
+^^^^^^^^^^^^^^^^^^
+
+Para agregar más categorias a "Productos" o "Herramientas" se debe crear una subcollección con el nombre deseado.
+
+ 1- Hacer click en "Mis Collecciones" en el menú superior.
+
+ .. image:: /images/astep1.jpg
+
+ 2- En la pantalla de Nueva colección agregar la información correspondiente a dicha categoria.
+
+ .. image:: /images/astep2.jpg
+
+ 3- Selecciona la Temática a la que pertence.
+
+	.. warning:: Si seleccionas una categoria que no sea Herramientas o Productos, la collección se creara en una categoria erronea
+
+ .. image:: /images/astep33.jpg
+
+ 4- Dentro de cada Cliente se puede ver el contenido que hay dentro de cada collección
+
+ .. image:: /images/astep3.jpg
+
+
 
 Revisión de Contenido
 ^^^^^^^^^^^^^^^^^^^^^

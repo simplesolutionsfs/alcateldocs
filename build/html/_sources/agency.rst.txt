@@ -8,25 +8,29 @@ Dashboard
 ^^^^^^^^^
 Al ingresar como una agencia, se podra observar una carpeta con el Nombre de "Acciones", este es un accesso directo para la opcion de "Mis Acciones" en el menu de la derecha.
 
-.. note:
+
+.. note::
    En caso de haber una revisión pendiente, un circulo de color rojo aparecera en la esquina superior derecha.
 
+
 .. image:: /images/agencia-dash.jpg
+
 
 Ver Contenido
 ^^^^^^^^^^^^^
 
  1- Hacer click en "Temas" en el menú superior.
 
-.. image:: /images/ss2tep1.jpg
- 
- 2- Esta seccion muestra todos los Clientes que Maneja la Agencia
+ .. image:: /images/ss2tep1.jpg
 
-.. image:: /images/ss2tep2.jpg
+ 2- Esta seccion muestra todos los Clientes que Maneja
 
- 3- Dentro de cada Cliente la agencia puede ver el contenido que hay dentro de cada colleccion
+ .. image:: /images/ss2tep2.jpg
 
-.. image:: /images/ss2tep3.jpg
+ 3- Dentro de cada Cliente se puede ver el contenido que hay dentro de cada collección
+
+ .. image:: /images/temas.jpg
+
 
 Revisión de Contenido
 ^^^^^^^^^^^^^^^^^^^^^
